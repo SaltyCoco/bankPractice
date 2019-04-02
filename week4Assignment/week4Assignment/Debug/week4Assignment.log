@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  SavingsAccount.cpp
+c:\ryanschulte\pg_softwartdevelopment\pg_cpp\pgr410\week4\week4assignment\week4assignment\savingsaccount.cpp(9): warning C4101: 'monthlyInterest': unreferenced local variable
+c:\ryanschulte\pg_softwartdevelopment\pg_cpp\pgr410\week4\week4assignment\week4assignment\savingsaccount.cpp(8): warning C4101: 'savingsBalance': unreferenced local variable
+c:\ryanschulte\pg_softwartdevelopment\pg_cpp\pgr410\week4\week4assignment\week4assignment\savingsaccount.cpp(10): warning C4101: 'months': unreferenced local variable
+c:\ryanschulte\pg_softwartdevelopment\pg_cpp\pgr410\week4\week4assignment\week4assignment\savingsaccount.cpp(14): warning C4305: 'initializing': truncation from 'double' to 'float'
+  week4Assignment.cpp
+c:\ryanschulte\pg_softwartdevelopment\pg_cpp\pgr410\week4\week4assignment\week4assignment\week4assignment.cpp(20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\ryanschulte\pg_softwartdevelopment\pg_cpp\pgr410\week4\week4assignment\week4assignment\week4assignment.cpp(32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+c:\ryanschulte\pg_softwartdevelopment\pg_cpp\pgr410\week4\week4assignment\week4assignment\savingsaccount.cpp(39): warning C4715: 'SavingsAccount::get_savingsBalance': not all control paths return a value
+  week4Assignment.vcxproj -> C:\RyanSchulte\PG_SoftwartDevelopment\PG_cpp\PGR410\week4\week4Assignment\Debug\week4Assignment.exe
